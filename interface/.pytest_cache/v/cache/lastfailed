@@ -1,0 +1,10 @@
+{
+  "add_event_test.py": true,
+  "add_guest_test.py::AddEventTest::test_add_guest_phone_type_err": true,
+  "get_event_list_test.py": true,
+  "user_sign_test.py::UserSignTest::test_user_sign_eid_start": true,
+  "user_sign_test.py::UserSignTest::test_user_sign_eid_type_err": true,
+  "user_sign_test.py::UserSignTest::test_user_sign_has": true,
+  "user_sign_test.py::UserSignTest::test_user_sign_query_phone_type_err": true,
+  "user_sign_test.py::UserSignTest::test_user_sign_success": true
+}
